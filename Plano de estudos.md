@@ -1,0 +1,3 @@
+- [ ] Revisar os princípios da ondulatória
+- [ ] Coletar as principais características da VLC (Visible Light Communications) e o que faz com que ela se difira dos outros métodos de comunicação como RF e IR
+- [ ] Buscar os principais algoritmos utilizados na VLC

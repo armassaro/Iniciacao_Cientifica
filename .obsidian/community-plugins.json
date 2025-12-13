@@ -1,3 +1,6 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-latex-suite"
 ]

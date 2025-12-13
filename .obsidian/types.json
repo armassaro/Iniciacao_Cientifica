@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "counter": "number",
+    "conteudo": "multitext",
+    "data": "text",
+    "data_artigo": "date",
+    "autor": "multitext"
+  }
+}
