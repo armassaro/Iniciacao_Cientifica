@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Registro.md",
+                "file": "4. Conceitos/1. Sobre os conceitos básicos de uma onda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registro"
+              "title": "1. Sobre os conceitos básicos de uma onda"
             }
           }
         ]
@@ -197,25 +197,27 @@
   },
   "active": "88946b530a37827d",
   "lastOpenFiles": [
+    "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/espectro_frequencias.png",
+    "2. Fórmulas/FORM-3.md",
+    "2. Fórmulas/FORM-1.md",
+    "2. Fórmulas/FORM-2.md",
+    "0. Templates/FORM-{{num}}.md",
+    "0. Templates/REF-{{date}}.md",
     "4. Conceitos/1. Sobre os conceitos básicos de uma onda.md",
+    "Untitled.md",
+    "Registro.md",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/amplitude_onda.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/comprimento_onda.png",
     "3. Imagens/Pasted image 20251213175957.png",
     "3. Imagens",
-    "2. Fórmulas/FORM-2.md",
-    "2. Fórmulas/FORM-1.md",
     "0. Templates/Sobre alguma coisa.md",
-    "0. Templates/FORM-{{date}}.md",
-    "0. Templates/REF-{{date}}.md",
-    "Untitled.md",
     "Plano de estudos.md",
     "1. Referências/Dataview.md",
     "1. Referências/Untitled.md",
     "1. Referências/Untitled.base",
     "1. Referências/metadata.md",
     "1. Referências/teste.md",
-    "Registro.md",
     "4. Plano de estudos",
     "4. Conceitos",
     "2. Fórmulas",

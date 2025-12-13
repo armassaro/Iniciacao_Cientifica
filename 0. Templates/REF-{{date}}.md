@@ -10,4 +10,5 @@ autor:
 ISBN:
 link:
 aliases:
+  - ref-{{data_artigo}}
 ---

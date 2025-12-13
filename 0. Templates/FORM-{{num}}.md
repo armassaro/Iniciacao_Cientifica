@@ -2,9 +2,8 @@
 tags:
   - formula
 conteudo:
-  - ondulatoria
 aliases:
-  - form-freq
+  - form-{{nome}}
 ---
 $$
 \Large F = 2\pi\omega
