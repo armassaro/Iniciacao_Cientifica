@@ -1,3 +1,2 @@
-- [ ] Revisar os princípios da ondulatória
-- [ ] Coletar as principais características da VLC (Visible Light Communications) e o que faz com que ela se difira dos outros métodos de comunicação como RF e IR
-- [ ] Buscar os principais algoritmos utilizados na VLC
+- **[17/12/2025]** -> **[23/12/2025]**
+Ler [[Visible Light Communication Concepts, Applications and Challenges.pdf]] e anotar resumos sobre o que foi aprendido, assim como atualizar fórmulas, imagens e conceitos após a escrita dos resumos, para consolidar e sintetizar o que foi lido.
