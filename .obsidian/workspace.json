@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plano de estudos.md",
+                "file": "5. Anotações de leitura/17-12-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plano de estudos"
+              "title": "17-12-2025"
             }
           },
           {
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 200
   },
   "right": {
     "id": "18687f2b484c89aa",
@@ -208,13 +208,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "47484bc0fc2cb893",
+  "active": "88946b530a37827d",
   "lastOpenFiles": [
-    "1. Referências/1.1. Mapa de referências.md",
+    "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
+    "5. Anotações de leitura/17-12-2025.md",
+    "5. Anotações de leitura",
     "Plano de estudos.md",
+    "1. Referências/1.1. Mapa de referências.md",
     "Registro.md",
     "1. Referências/A flicker-free CMOS LED driver control circuit for visible light communication enabling concurrent data transmission and… (Mirvakili, Ali Koomson, Valencia Joyner) (Z-Library).pdf",
-    "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
     "1. Referências/Visible Light Communication (Shlomi Arnon).pdf",
     "1. Referências/Key Technologies for 5G Wireless Systems Visible Light Communication in 5G (Wong, Vincent W. S. Schober, Robert Ng etc.) (Z-Library).pdf",
     "4. Conceitos/1. Sobre os conceitos básicos de uma onda.md",
@@ -237,7 +239,6 @@
     "1. Referências/teste.md",
     "4. Plano de estudos",
     "4. Conceitos",
-    "2. Fórmulas",
     "Welcome.md"
   ]
 }
