@@ -7,6 +7,8 @@
     "conteudo": "multitext",
     "data": "text",
     "data_artigo": "date",
-    "autor": "multitext"
+    "autor": "multitext",
+    "qtd_paginas": "number",
+    "intervalo_paginas": "text"
   }
 }
