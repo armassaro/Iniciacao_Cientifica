@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "7e32aab04372751f",
+  "active": "47484bc0fc2cb893",
   "lastOpenFiles": [
     "4. Conceitos/1. Sobre os conceitos básicos de uma onda.md",
     "4. Conceitos/4.1. Conceitos de ondulatória/4.1.6. Espectro de frequência.md",
