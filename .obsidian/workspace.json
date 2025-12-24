@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Conceitos/4.2. Conceitos de VLC/4.2.2. Vantagens e desvantagens da VLC.md",
+                "file": "5. Anotações de leitura/LEITURA-24-12-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2.2. Vantagens e desvantagens da VLC"
+              "title": "LEITURA-24-12-2025"
+            }
+          },
+          {
+            "id": "855d0eba3fa9fa95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
+                "page": 23,
+                "left": -11,
+                "top": 357,
+                "zoom": 1.3112745098039216
+              },
+              "icon": "lucide-file-text",
+              "title": "Visible Light Communication Concepts, Applications and Challenges"
             }
           }
         ]
@@ -78,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 200
   },
   "right": {
     "id": "18687f2b484c89aa",
@@ -180,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,16 +209,22 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "sheet-plus:Create excel file": false
+      "sheet-plus:Create excel file": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0a39fc1e3f448c23",
+  "active": "47484bc0fc2cb893",
   "lastOpenFiles": [
-    "Anotações para melhorias.md",
+    "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
+    "5. Anotações de leitura/LEITURA-24-12-2025.md",
+    "Plano de estudos.md",
+    "0. Templates/LEITURA-{{date}}.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.2. Vantagens e desvantagens da VLC.md",
+    "Anotações para melhorias.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.1. Fenômeno de fotocorrente.md",
     "Registro.md",
-    "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
     "4. Conceitos/4.1. Conceitos de ondulatória/4.1.7. Espectro de radiofrequência.md",
     "5. Anotações de leitura/LEITURA-19-12-2025.md",
     "4. Conceitos/4.2. Conceitos de VLC",
@@ -217,20 +239,17 @@
     "4. Conceitos/4.1. Conceitos de ondulatória",
     "0. Templates/Algum conceito.md",
     "5. Anotações de leitura/LEITURA-17-12-2025.md",
-    "Plano de estudos.md",
     "5. Anotações de leitura/5.1. Mapa de anotações.md",
     "1. Referências/1.1. Mapa de referências.md",
     "2. Fórmulas/FORM-3.md",
     "2. Fórmulas/FORM-2.md",
     "2. Fórmulas/FORM-1.md",
-    "0. Templates/LEITURA-{{date}}.md",
     "0. Templates/FORM-{{date}}.md",
     "5. Anotações de leitura",
     "1. Referências/A flicker-free CMOS LED driver control circuit for visible light communication enabling concurrent data transmission and… (Mirvakili, Ali Koomson, Valencia Joyner) (Z-Library).pdf",
     "1. Referências/Key Technologies for 5G Wireless Systems Visible Light Communication in 5G (Wong, Vincent W. S. Schober, Robert Ng etc.) (Z-Library).pdf",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/espectro_frequencias.png",
     "0. Templates/REF-{{date}}.md",
-    "Untitled.md",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/amplitude_onda.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/comprimento_onda.png",

@@ -1,2 +1,8 @@
 - **[17/12/2025]** -> **[23/12/2025]**
 Ler [[Visible Light Communication Concepts, Applications and Challenges.pdf]] e anotar resumos sobre o que foi aprendido, assim como atualizar fórmulas, imagens e conceitos após a escrita dos resumos, para consolidar e sintetizar o que foi lido.
+
+---
+### A fazer
+```dataview
+task from "5. Anotações de leitura" where !completed 
+```
