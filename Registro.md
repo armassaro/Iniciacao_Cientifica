@@ -9,3 +9,7 @@
 > Adicionei um mapa de anotações que mapeia por meio de queries os arquivos que contém os resumos das leituras que estou fazendo no dia. Esse mapa de anotações vai me ajudar a agrupar melhor os arquivos e vai permitir que eu possua uma visualização mais facilitada conforme o número de arquivos de anotações de leitura aumenta.
 > Também dividi os conceitos relacionados à ondulatória que antes estavam sintetizados em um só arquivo, para que seja de fato reutilizável quando eu necessitar referenciar algum desses conceitos futuramente. 
 > Realizei a leitura das páginas 10 a 20 do artigo científico que estou lendo e também adicionei as anotações de leitura do que li na pasta, assim como também criei um conceito e a pasta relacionado ao VLC. 
+
+> **[13/01/2026 -> Leitura das páginas 30 a 36 do artigo e adição de uma lista de palavras em inglês]**
+> A última leitura foi muito importante para entender os principais conceitos relacionados ao trabalho, assim como sistemas de localização baseados em VLC já desenvolvidos anteriormente, como o Epsilon e o Luxapose. 
+> Adicionei também uma lista de palavras em inglês para as palavras que eu não sabia tanto e eram recorrentes na leitura do documento. 
