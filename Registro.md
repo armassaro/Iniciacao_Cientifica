@@ -13,3 +13,6 @@
 > **[13/01/2026 -> Leitura das páginas 30 a 36 do artigo e adição de uma lista de palavras em inglês]**
 > A última leitura foi muito importante para entender os principais conceitos relacionados ao trabalho, assim como sistemas de localização baseados em VLC já desenvolvidos anteriormente, como o Epsilon e o Luxapose. 
 > Adicionei também uma lista de palavras em inglês para as palavras que eu não sabia tanto e eram recorrentes na leitura do documento. 
+
+> **[16/01/2026 -> Leitura das páginas 36 a 41]**
+> A última leitura foi bastante importante ao abordar principalmente os conceitos gerais dos problemas mais importantes na implementação de sistemas VLC. Entender esses conceitos vai ser bastante importante para entender completamente o funcionamento dos algoritmos de localização.
