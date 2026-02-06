@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e3da868455bc2fa2",
+        "id": "99cf718db1f94d81",
         "type": "tabs",
         "children": [
           {
-            "id": "2bc46efd236d4633",
+            "id": "791ec1b39831ab9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Registro.md",
+                "file": "Lista de coisa pra estudar, pesquisar ou fazer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registro"
+              "title": "Lista de coisa pra estudar, pesquisar ou fazer"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 477.5
   },
   "right": {
     "id": "18687f2b484c89aa",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,43 +198,43 @@
   },
   "active": "47484bc0fc2cb893",
   "lastOpenFiles": [
-    "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
+    "Lista de palavras em inglês.md",
+    "Lista de coisa pra estudar, pesquisar ou fazer.md",
+    "5. Anotações de leitura/3. LEITURA-24-12-2025.md",
     "Registro.md",
+    "5. Anotações de leitura/5. LEITURA-16-01-2026.md",
+    "5. Anotações de leitura/4. LEITURA-13-01-2026.md",
+    "5. Anotações de leitura/0. Mapa de anotações.md",
+    "5. Anotações de leitura/7. LEITURA-06-02-2026.md",
+    "1. Referências/TCC_JP Vargad da Fonseca_vsBanca_Marcelo.pdf",
+    "1. Referências/1.1. Mapa de referências.md",
+    "1. Referências/Visible Light Communication Concepts, Applications and Challenges.pdf",
     "5. Anotações de leitura/6. LEITURA-21-01-2026.md",
     "Untitled 1.md",
     "5. Anotações de leitura/1. LEITURA-17-12-2025.md",
-    "5. Anotações de leitura/3. LEITURA-24-12-2025.md",
     "4. Conceitos/4.1. Conceitos de ondulatória/4.1.8. SNR.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.6. Dimming.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.2. Vantagens e desvantagens da VLC.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.3. LOS (line of sight).md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.4. NLOS (non line of sight).md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.5. RSS (Received Signal Strength).md",
-    "Lista de palavras em inglês.md",
     "Untitled.md",
-    "Plano de estudos.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.1. Fenômeno de fotocorrente.md",
-    "5. Anotações de leitura/5. LEITURA-16-01-2026.md",
-    "5. Anotações de leitura/4. LEITURA-13-01-2026.md",
     "1. Referências/Visible light communications theory and applications (Zabih Ghassemlooy, Luis Nero Alves etc.) (Z-Library).pdf",
     "1. Referências/Visible Light Communication (Shlomi Arnon).pdf",
     "5. Anotações de leitura/2. LEITURA-19-12-2025.md",
-    "5. Anotações de leitura/0. Mapa de anotações.md",
     "Annotator/Visible Light Communication Concepts, Applications and Challenges.md",
     "Annotator/Visible Light Communication Concepts, Applications and Challenges.pdf.md",
     "Annotator/Visible Light Communication Concepts, Applications and Challenges.pdf 1.md",
     "1. Referências/Key Technologies for 5G Wireless Systems Visible Light Communication in 5G (Wong, Vincent W. S. Schober, Robert Ng etc.) (Z-Library).pdf",
     "Annotator",
     "0. Templates/LEITURA-{{date}}.md",
-    "Anotações para melhorias.md",
-    "4. Conceitos/4.1. Conceitos de ondulatória/4.1.7. Espectro de radiofrequência.md",
     "4. Conceitos/4.2. Conceitos de VLC",
     "4. Conceitos/4.1. Conceitos de ondulatória",
     "5. Anotações de leitura",
     "1. Referências/A flicker-free CMOS LED driver control circuit for visible light communication enabling concurrent data transmission and… (Mirvakili, Ali Koomson, Valencia Joyner) (Z-Library).pdf",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/espectro_frequencias.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/amplitude_onda.png",
-    "3. Imagens/3.1. Sobre os conceitos básicos de uma onda",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/comprimento_onda.png",
     "3. Imagens/Pasted image 20251213175957.png"
   ]

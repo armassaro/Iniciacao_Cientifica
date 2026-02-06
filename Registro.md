@@ -17,4 +17,4 @@
 > **[16/01/2026 -> Leitura das páginas 36 a 41]**
 > A última leitura foi bastante importante ao abordar principalmente os conceitos gerais dos problemas mais importantes na implementação de sistemas VLC. Entender esses conceitos vai ser bastante importante para entender completamente o funcionamento dos algoritmos de localização.
 
-> **[17/01/2026 -> Leitura das páginas 41 a 46 do artigo [[Visible Light Communication Concepts, Applications and Challenges.pdf]]]**
+> **[17/01/2026 -> Leitura das páginas 41 a 46 do artigo [[Visible Light Communication Concepts, Applications and Challenges.pdf]] ]**
