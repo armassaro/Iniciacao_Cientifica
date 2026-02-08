@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99cf718db1f94d81",
+        "id": "a199fa0ece239c74",
         "type": "tabs",
         "children": [
           {
-            "id": "791ec1b39831ab9c",
+            "id": "acafcefbc5fc05c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lista de coisa pra estudar, pesquisar ou fazer.md",
+                "file": "5. Anotações de leitura/8. LEITURA-08-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista de coisa pra estudar, pesquisar ou fazer"
+              "title": "8. LEITURA-08-02-2026"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 327.5
   },
   "right": {
     "id": "18687f2b484c89aa",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +196,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "47484bc0fc2cb893",
+  "active": "acafcefbc5fc05c2",
   "lastOpenFiles": [
-    "Lista de palavras em inglês.md",
+    "5. Anotações de leitura/8. LEITURA-08-02-2026.md",
     "Lista de coisa pra estudar, pesquisar ou fazer.md",
+    "Lista de palavras em inglês.md",
     "5. Anotações de leitura/3. LEITURA-24-12-2025.md",
     "Registro.md",
     "5. Anotações de leitura/5. LEITURA-16-01-2026.md",
