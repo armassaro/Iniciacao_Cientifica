@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a199fa0ece239c74",
+        "id": "d222eabc89d9b25e",
         "type": "tabs",
         "children": [
           {
-            "id": "acafcefbc5fc05c2",
+            "id": "d0a58a62e9960b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Anotações de leitura/8. LEITURA-08-02-2026.md",
+                "file": "Lista de coisa pra estudar, pesquisar ou fazer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. LEITURA-08-02-2026"
+              "title": "Lista de coisa pra estudar, pesquisar ou fazer"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 436.5
   },
   "right": {
     "id": "18687f2b484c89aa",
@@ -180,31 +180,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "acafcefbc5fc05c2",
+  "active": "47484bc0fc2cb893",
   "lastOpenFiles": [
-    "5. Anotações de leitura/8. LEITURA-08-02-2026.md",
-    "Lista de coisa pra estudar, pesquisar ou fazer.md",
-    "Lista de palavras em inglês.md",
-    "5. Anotações de leitura/3. LEITURA-24-12-2025.md",
-    "Registro.md",
-    "5. Anotações de leitura/5. LEITURA-16-01-2026.md",
     "5. Anotações de leitura/4. LEITURA-13-01-2026.md",
+    "Lista de coisa pra estudar, pesquisar ou fazer.md",
+    "Registro.md",
+    "Untitled.md",
+    "Lista de palavras em inglês.md",
+    "3. Imagens/Pasted image 20260213102440.png",
+    "5. Anotações de leitura/3. LEITURA-24-12-2025.md",
+    "6. Anotações diversas/Excel 2026-02-26 09.45.03.univer.md",
+    "4. Conceitos/4.2. Conceitos de VLC/4.2.5. RSS (Received Signal Strength).md",
+    "4. Conceitos/4.2. Conceitos de VLC/4.2.6. AoA (Angle of Arrival).md",
+    "6. Anotações diversas/Tabela de informações de artigos recentes.md",
+    "6. Anotações diversas",
+    "1. Referências/Visible Light Communication (Shlomi Arnon).pdf",
+    "3. Imagens/3.2. Conceitos de VLC/angle_of_arrival.png",
+    "3. Imagens/3.2. Conceitos de VLC/Captura de tela de 2026-02-13 10-24-37.png",
+    "3. Imagens/3.2. Conceitos de VLC",
+    "4. Conceitos/4.2. Conceitos de VLC/4.2.4. NLOS (non line of sight).md",
+    "4. Conceitos/4.2. Conceitos de VLC/4.2.3. LOS (line of sight).md",
+    "5. Anotações de leitura/8. LEITURA-08-02-2026.md",
+    "5. Anotações de leitura/5. LEITURA-16-01-2026.md",
     "5. Anotações de leitura/0. Mapa de anotações.md",
     "5. Anotações de leitura/7. LEITURA-06-02-2026.md",
     "1. Referências/TCC_JP Vargad da Fonseca_vsBanca_Marcelo.pdf",
@@ -216,24 +229,13 @@
     "4. Conceitos/4.1. Conceitos de ondulatória/4.1.8. SNR.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.6. Dimming.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.2. Vantagens e desvantagens da VLC.md",
-    "4. Conceitos/4.2. Conceitos de VLC/4.2.3. LOS (line of sight).md",
-    "4. Conceitos/4.2. Conceitos de VLC/4.2.4. NLOS (non line of sight).md",
-    "4. Conceitos/4.2. Conceitos de VLC/4.2.5. RSS (Received Signal Strength).md",
-    "Untitled.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.1. Fenômeno de fotocorrente.md",
     "1. Referências/Visible light communications theory and applications (Zabih Ghassemlooy, Luis Nero Alves etc.) (Z-Library).pdf",
-    "1. Referências/Visible Light Communication (Shlomi Arnon).pdf",
     "5. Anotações de leitura/2. LEITURA-19-12-2025.md",
-    "Annotator/Visible Light Communication Concepts, Applications and Challenges.md",
-    "Annotator/Visible Light Communication Concepts, Applications and Challenges.pdf.md",
-    "Annotator/Visible Light Communication Concepts, Applications and Challenges.pdf 1.md",
     "1. Referências/Key Technologies for 5G Wireless Systems Visible Light Communication in 5G (Wong, Vincent W. S. Schober, Robert Ng etc.) (Z-Library).pdf",
     "Annotator",
-    "0. Templates/LEITURA-{{date}}.md",
     "4. Conceitos/4.2. Conceitos de VLC",
     "4. Conceitos/4.1. Conceitos de ondulatória",
-    "5. Anotações de leitura",
-    "1. Referências/A flicker-free CMOS LED driver control circuit for visible light communication enabling concurrent data transmission and… (Mirvakili, Ali Koomson, Valencia Joyner) (Z-Library).pdf",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/espectro_frequencias.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/amplitude_onda.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/comprimento_onda.png",
