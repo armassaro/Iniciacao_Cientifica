@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d222eabc89d9b25e",
+        "id": "b79c24bb8c2c7ced",
         "type": "tabs",
         "children": [
           {
-            "id": "d0a58a62e9960b4d",
+            "id": "8b3f7d635633fa9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 388.5
   },
   "right": {
     "id": "18687f2b484c89aa",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,17 +198,27 @@
   },
   "active": "47484bc0fc2cb893",
   "lastOpenFiles": [
-    "5. Anotações de leitura/4. LEITURA-13-01-2026.md",
+    "6. Anotações diversas/6.1. Ideia geral do projeto.md",
+    "7. Códigos/server.py",
+    "7. Códigos/CMakeLists.txt",
+    "7. Códigos/main.c",
+    "7. Códigos",
+    "4. Conceitos/4.3. Conceitos do ESP32/4.4. freeRTOS.md",
+    "4. Conceitos/4.2. Conceitos de VLC/4.2.1. Fenômeno de fotocorrente.md",
+    "4. Conceitos/4.3. Conceitos do ESP32",
+    "6. Anotações diversas/Tabela de informações de artigos recentes.md",
     "Lista de coisa pra estudar, pesquisar ou fazer.md",
+    "Histórico.md",
+    "5. Anotações de leitura/0. Mapa de anotações.md",
+    "6. Anotações diversas/Excel 2026-02-26 09.45.03.univer.md",
+    "5. Anotações de leitura/4. LEITURA-13-01-2026.md",
     "Registro.md",
     "Untitled.md",
     "Lista de palavras em inglês.md",
     "3. Imagens/Pasted image 20260213102440.png",
     "5. Anotações de leitura/3. LEITURA-24-12-2025.md",
-    "6. Anotações diversas/Excel 2026-02-26 09.45.03.univer.md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.5. RSS (Received Signal Strength).md",
     "4. Conceitos/4.2. Conceitos de VLC/4.2.6. AoA (Angle of Arrival).md",
-    "6. Anotações diversas/Tabela de informações de artigos recentes.md",
     "6. Anotações diversas",
     "1. Referências/Visible Light Communication (Shlomi Arnon).pdf",
     "3. Imagens/3.2. Conceitos de VLC/angle_of_arrival.png",
@@ -218,7 +228,6 @@
     "4. Conceitos/4.2. Conceitos de VLC/4.2.3. LOS (line of sight).md",
     "5. Anotações de leitura/8. LEITURA-08-02-2026.md",
     "5. Anotações de leitura/5. LEITURA-16-01-2026.md",
-    "5. Anotações de leitura/0. Mapa de anotações.md",
     "5. Anotações de leitura/7. LEITURA-06-02-2026.md",
     "1. Referências/TCC_JP Vargad da Fonseca_vsBanca_Marcelo.pdf",
     "1. Referências/1.1. Mapa de referências.md",
@@ -227,15 +236,6 @@
     "Untitled 1.md",
     "5. Anotações de leitura/1. LEITURA-17-12-2025.md",
     "4. Conceitos/4.1. Conceitos de ondulatória/4.1.8. SNR.md",
-    "4. Conceitos/4.2. Conceitos de VLC/4.2.6. Dimming.md",
-    "4. Conceitos/4.2. Conceitos de VLC/4.2.2. Vantagens e desvantagens da VLC.md",
-    "4. Conceitos/4.2. Conceitos de VLC/4.2.1. Fenômeno de fotocorrente.md",
-    "1. Referências/Visible light communications theory and applications (Zabih Ghassemlooy, Luis Nero Alves etc.) (Z-Library).pdf",
-    "5. Anotações de leitura/2. LEITURA-19-12-2025.md",
-    "1. Referências/Key Technologies for 5G Wireless Systems Visible Light Communication in 5G (Wong, Vincent W. S. Schober, Robert Ng etc.) (Z-Library).pdf",
-    "Annotator",
-    "4. Conceitos/4.2. Conceitos de VLC",
-    "4. Conceitos/4.1. Conceitos de ondulatória",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/espectro_frequencias.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/amplitude_onda.png",
     "3. Imagens/3.1. Sobre os conceitos básicos de uma onda/comprimento_onda.png",
