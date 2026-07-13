@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b79c24bb8c2c7ced",
+        "id": "42b246d4a3629e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3f7d635633fa9f",
+            "id": "c7ae95777846261a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de coisa pra estudar, pesquisar ou fazer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lista de coisa pra estudar, pesquisar ou fazer"
+              "title": "Nova aba"
             }
           }
         ]
@@ -180,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +192,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "47484bc0fc2cb893",
+  "active": "c7ae95777846261a",
   "lastOpenFiles": [
     "6. Anotações diversas/6.1. Ideia geral do projeto.md",
     "7. Códigos/server.py",
